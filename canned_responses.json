@@ -1,0 +1,54 @@
+[
+  {
+    "title": "CTN Processing Time",
+    "body": "Dear customer,\n\nThe processing time for a Cargo Tracking Note (CTN) is typically between 24 to 48 hours after your payment has been confirmed. The exact time can vary depending on the payment method used.\n\nIf you have any further questions, please let us know.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "Payment Methods",
+    "body": "Dear customer,\n\nWe accept the following payment methods:\n\n- Bank Transfer\n- Allinpay\n- Stripe\n\nPlease choose the one that is most convenient for you. Instructions are provided when you generate a payment link.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "Fees",
+    "body": "Dear customer,\n\nOur current fee structure is as follows:\n\n- CTN Fee: $100 per container\n- Service Fee: $100 per container\n\nThis amounts to a total of $200 per container. Please note that this pricing is for Bill of Lading (ocean freight) and may differ for Air Waybills.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "How do I get a copy of my invoice?",
+    "body": "Dear customer,\n\nYou can request a copy of your invoice by replying to this email or by logging into your account on our portal. If you need assistance, please provide your B/L or CTN number.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "How do I track the status of my CTN?",
+    "body": "Dear customer,\n\nTo check the status of your Cargo Tracking Note (CTN), please provide your B/L or CTN number. We will update you as soon as possible.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "What documents do I need to provide for CTN processing?",
+    "body": "Dear customer,\n\nFor CTN processing, please provide the following documents:\n- Bill of Lading (B/L)\n- Commercial Invoice\n- Packing List\n- Any other relevant shipping documents\n\nIf you have already submitted these, no further action is needed.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "How do I upload my bank transfer receipt?",
+    "body": "Dear customer,\n\nYou can upload your bank transfer receipt by replying to this email with the receipt attached. Our team will process your payment as soon as it is received.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "Can I get a refund or cancel my CTN?",
+    "body": "Dear customer,\n\nRefunds or cancellations are handled on a case-by-case basis. Please provide your B/L or CTN number and the reason for your request, and our team will review your case.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "What is the difference between CTN and B/L?",
+    "body": "Dear customer,\n\nA Bill of Lading (B/L) is a shipping document issued by the carrier, while a Cargo Tracking Note (CTN) is a regulatory document required by certain countries for cargo tracking and compliance. Both are important for your shipment.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "What are your business hours?",
+    "body": "Dear customer,\n\nOur business hours are Monday to Friday, 9:00 AM to 6:00 PM (local time). We aim to respond to all enquiries within one business day.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "How do I contact support?",
+    "body": "Dear customer,\n\nYou can contact our support team by replying to this email or calling our hotline at [your phone number]. We are here to help!\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "Can I pay in a different currency?",
+    "body": "Dear customer,\n\nCurrently, we accept payments in USD. If you wish to pay in another currency, please contact us in advance to discuss available options.\n\nBest regards,\nSupport Team"
+  },
+  {
+    "title": "How do I update my company/contact information?",
+    "body": "Dear customer,\n\nTo update your company or contact information, please reply to this email with the new details, or update your profile in our online portal.\n\nBest regards,\nSupport Team"
+  }
+]
